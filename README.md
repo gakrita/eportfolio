@@ -6,6 +6,6 @@
 🔧 **Το ePortfolio βρίσκεται υπό κατασκευή.**  
 
 🌐 **ePortfolio site:**  
-https://gakrita.github.io/eportfolio
+https://gakrita.github.io/eportfolio/
 
 Επιστρέψτε σύντομα για περισσότερα!
